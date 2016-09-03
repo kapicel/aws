@@ -1,0 +1,19 @@
+{
+  "name": "awslab4",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Radek Adamus <adamusr@gmail.com> (https://github.com/radamus/)",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.4.0",
+    "ejs": "^1.0.0",
+    "infinite-loop": "0.2.2",
+    "moment": "^2.5.1",
+    "webs-weeia": "0.0.2",
+    "lwip": "0.0.9"
+  }
+}
